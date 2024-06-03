@@ -4,7 +4,7 @@ This project was built using React (Next.js) for the frontend and Python (FastAp
 
 The steps to setup the project are shown below, please create two seperate terminal instances and run the following commands to set up the frontend and backend components of the project.
 
-BACKEND SETUP:
+**BACKEND SETUP:**\
 From the root directory, run the following commands
 ```
 cd backend
@@ -13,7 +13,7 @@ docker build -t python-env .
 uvicorn main:app --reload
 ```
 
-FRONTEND SETUP:
+**FRONTEND SETUP:**\
 From the root directory, run the following commands
 ```
 cd frontend
